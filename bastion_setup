@@ -1,0 +1,3 @@
+bastion_ami: ami-05b5a865c3579bbc4
+region: eu-west-3
+MYIP: 92.92.163.117/32
