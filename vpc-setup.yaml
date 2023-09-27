@@ -16,7 +16,7 @@
         state: "{{state}}"
       register: vpcout
 
-    - debug:
+    - debug: # used to print output on screen
         var: vpcout
 
     - name: create Public subnet 1 in zone1
